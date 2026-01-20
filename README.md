@@ -1,9 +1,9 @@
+## Learning Summary
 1- Differences between merge, rebase, squash, and cherry-pick
 Merge: Joins two branches together while preserving the history of all the commits made.
 Rebase: Taking commits from one branch and adding it onto another in order to have a clean linear history.
 Squash: Takes multiple commits made and bundles them into one, and that makes it more clean and understandable. I wold use it to group a number of small commits into one meaningful commit.
 Cherry-pick: Copies a commit from one branch to another, and especially used for hotfixes.
-
 
 2- feature1 vs feature2 vs feature3
 feature1: 
@@ -15,4 +15,4 @@ feature2:
 - Add maxAttempts constant and game over state
 - Implement max attempts logic and game over condition
 feature3:
-- Add hint system to show proximity after 3 attampts.
+- Add hint system to show proximity after 3 attempts.
